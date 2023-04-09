@@ -1,0 +1,17 @@
+{
+    "data": {
+        "vol" : "vix",
+        "under_asset" : "snp500",
+        "train_test_ratio": 0.8,
+        "arimaperiods": [],
+        "seq_len": 20,
+        "pred_len": 1,
+        "batch_size": 16
+    },
+
+    "model": {
+            "hidden_size": 16,
+            "num_layers": 4,
+            "lr": 0.0001
+    }
+}

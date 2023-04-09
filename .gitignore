@@ -1,0 +1,5 @@
+__pycache__
+__DS_Store__
+*.csv
+logs
+results

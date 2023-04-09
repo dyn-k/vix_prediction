@@ -1,0 +1,1 @@
+### Raw data - close price per each day
